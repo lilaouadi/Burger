@@ -26,7 +26,7 @@ $(function() {
     event.preventDefault();
 
     var newCat = {
-      name: $("#ca").val().trim()
+      name: $("#bu").val().trim()
     };
 
     // Send the POST request.
